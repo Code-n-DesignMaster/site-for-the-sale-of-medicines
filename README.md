@@ -16,3 +16,7 @@
 
 localhost:3001
 localhost:3001/promo
+
+## Using technologies
+
+React, Redux, jQuery, Bootstrap
